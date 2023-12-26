@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  /* background-image: 'BloodDonation.jpg'; */
+}
+
+#view2{
+  padding: 3%;
+}
+
+#view1{
+  padding: 3%;
+}
+
+.update{
+  padding: 2.5%;
+}

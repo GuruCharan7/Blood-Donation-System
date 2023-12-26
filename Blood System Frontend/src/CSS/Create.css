@@ -1,0 +1,22 @@
+.sign-in-container {
+
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: linear-gradient(0deg, rgb(51, 102, 255), rgb(0, 26, 102));
+}
+
+.create-container {
+    
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(169, 169, 169, 0.7);
+    z-index: 9;
+}
+.details {
+    position: absolute;
+}
+.con {
+    position: relative;
+}

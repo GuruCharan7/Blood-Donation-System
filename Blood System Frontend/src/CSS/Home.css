@@ -1,0 +1,72 @@
+.main-container{
+  position: absolute;
+  right: 0%;
+  top: 13%;
+  height: 87%;
+  width: 100%;
+  overflow: auto;
+}
+.main-container::-webkit-scrollbar {
+    display: none;
+  }
+.overall::-webkit-scrollbar {
+    display: none;
+  }
+
+  .apptool{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    height: 13%;
+    width: 100%;
+    overflow: auto;
+  }
+
+  .content{
+    position: absolute;
+    right: 0%;
+    left: 15%;
+    top: 11%;
+    height: 89%;
+    width: 100%;
+    overflow: hidden;
+  }
+  /* .header{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    height: 20%;
+    width: 100%;
+    overflow: hidden;
+  } */
+  .H1{
+    padding: 5%;
+  }
+  .overall{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+
+  }
+  .wallpaper{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: url("../img/wallpaper2.jpg");
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+
+  
+.container{
+  padding: 13.5%;
+  padding-top: 0%;
+}
